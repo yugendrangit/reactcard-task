@@ -1,0 +1,1 @@
+Created price card user interface using react.js in dynamic manner and passing the data through props.
